@@ -1424,3 +1424,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.24-21.36.17:293][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
 [2026.11.24-21.36.17:300][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2026.11.24-21.36.17:384][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.11.24-21.36.46:210][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.11.24-21.36.46:230][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_TP2/Maps/LVL_TP2_Auto3
+[2026.11.24-21.36.46:230][532]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/LEBIGtp2/JV1_TP2_Gabarit/JV1_TP2_Gabarit/Saved/LVL_TP2_Auto332AFB63241248F8EA866AC93A49486CD.tmp' to '../../../../../../Users/6383488/Documents/GitHub/LEBIGtp2/JV1_TP2_Gabarit/JV1_TP2_Gabarit/Saved/Autosaves/Game/_TP2/Maps/LVL_TP2_Auto3.umap'
+[2026.11.24-21.36.46:234][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_TP2/Maps/LVL_TP2' took 0.042
+[2026.11.24-21.36.46:236][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.11.24-21.41.22:543][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4535.278809
+[2026.11.24-21.41.23:544][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.24-21.41.23:544][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4535.946289, Update Interval: 330.504456
